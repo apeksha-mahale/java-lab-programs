@@ -1,0 +1,16 @@
+6a@ISELAB2-41:~$ javac VehicleMain.java
+6a@ISELAB2-41:~$ java VehicleMain
+Bike details: 
+1) Name: Splendor
+2) Year of Manufacture: 2014
+3) No. of Wheels: 2
+Bike details: 
+1) Name: Gixxer SF
+2) Year of Manufacture: 2015
+3) No. of Wheels: 2
+Car details: 
+1) Name: Brezza
+2) Year of Manufacture: 2016
+3) No. of Wheels: 4
+6a@ISELAB2-41:~$ ^C
+6a@ISELAB2-41:~$

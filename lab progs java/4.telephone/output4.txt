@@ -1,0 +1,286 @@
+6a@ISELAB2-41:~$ \javac newPhoneClass.java
+6a@ISELAB2-41:~$ java newPhoneClass
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+2
+
+Name: DEF
+Phone No: 5678
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+2
+
+Name: JKL
+Phone No: 3456
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+2
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+2
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+3
+
+Enter number to delete: 
+5678
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+2
+
+Name: Private
+Phone No: 2468
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 2468
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: GHI
+Phone No: 9012
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 1357
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 1357
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+3
+
+Enter number to delete: 
+1357
+Deleted! (1357)
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+2
+
+Name: Private
+Phone No: 2468
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 2468
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: GHI
+Phone No: 9012
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 1357
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+2
+
+Name: Private
+Phone No: 2468
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+2
+
+Name: Private
+Phone No: 2468
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+2
+
+Name: GHI
+Phone No: 9012
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 1357
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+2
+
+Name: GHI
+Phone No: 9012
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 1357
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+2
+
+Name: GHI
+Phone No: 9012
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 1357
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+2
+
+Name: GHI
+Phone No: 9012
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+Name: Private
+Phone No: 1357
+Time: 2:43:54
+
+1) Display next
+2) Display next and delete current: 
+1
+
+1) Add
+2) Log
+3) Delete
+4) Exit: 
+4
+6a@ISELAB2-41:~$ 
